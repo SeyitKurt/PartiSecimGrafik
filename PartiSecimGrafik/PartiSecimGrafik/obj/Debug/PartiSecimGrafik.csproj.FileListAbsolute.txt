@@ -1,0 +1,11 @@
+C:\Users\seyit.kurt\source\repos\PartiSecimGrafik\PartiSecimGrafik\bin\Debug\PartiSecimGrafik.exe.config
+C:\Users\seyit.kurt\source\repos\PartiSecimGrafik\PartiSecimGrafik\bin\Debug\PartiSecimGrafik.exe
+C:\Users\seyit.kurt\source\repos\PartiSecimGrafik\PartiSecimGrafik\bin\Debug\PartiSecimGrafik.pdb
+C:\Users\seyit.kurt\source\repos\PartiSecimGrafik\PartiSecimGrafik\obj\Debug\PartiSecimGrafik.csproj.AssemblyReference.cache
+C:\Users\seyit.kurt\source\repos\PartiSecimGrafik\PartiSecimGrafik\obj\Debug\PartiSecimGrafik.VTGS.resources
+C:\Users\seyit.kurt\source\repos\PartiSecimGrafik\PartiSecimGrafik\obj\Debug\PartiSecimGrafik.FrmGrafikler.resources
+C:\Users\seyit.kurt\source\repos\PartiSecimGrafik\PartiSecimGrafik\obj\Debug\PartiSecimGrafik.Properties.Resources.resources
+C:\Users\seyit.kurt\source\repos\PartiSecimGrafik\PartiSecimGrafik\obj\Debug\PartiSecimGrafik.csproj.GenerateResource.cache
+C:\Users\seyit.kurt\source\repos\PartiSecimGrafik\PartiSecimGrafik\obj\Debug\PartiSecimGrafik.csproj.CoreCompileInputs.cache
+C:\Users\seyit.kurt\source\repos\PartiSecimGrafik\PartiSecimGrafik\obj\Debug\PartiSecimGrafik.exe
+C:\Users\seyit.kurt\source\repos\PartiSecimGrafik\PartiSecimGrafik\obj\Debug\PartiSecimGrafik.pdb
